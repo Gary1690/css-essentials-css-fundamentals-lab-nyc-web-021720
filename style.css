@@ -10,7 +10,7 @@ header{
   text-align: center;
 }
 #featured-property p {
-  text-align: center;
+  margin: auto;
   width: 800px;
 }
 img{
